@@ -140,6 +140,7 @@
 									<listOptionValue builtIn="false" value="../Libraries/Misc/Matrix"/>
 									<listOptionValue builtIn="false" value="../Libraries/Misc/Matrix/SVD"/>
 									<listOptionValue builtIn="false" value="../Libraries/Modules/Parameters"/>
+									<listOptionValue builtIn="false" value="../Libraries/Modules/Controllers/FeedbackLinearization"/>
 								</option>
 								<option id="gnu.cpp.compiler.option.preprocessor.def.2021347189" name="Defined symbols (-D)" superClass="gnu.cpp.compiler.option.preprocessor.def" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="__weak=__attribute__((weak))"/>
@@ -734,30 +735,13 @@
 		<configuration configurationName="Release"/>
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
+	<storageModule moduleId="org.eclipse.cdt.core.pathentry"/>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.12570053;fr.ac6.managedbuild.config.gnu.cross.exe.release.12570053.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.308977759;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.1702270071">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.1000332105;fr.ac6.managedbuild.config.gnu.cross.exe.debug.1000332105.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.308977759;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.1702270071">
-			<autodiscovery enabled="false" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.2024180720;fr.ac6.managedbuild.config.gnu.cross.exe.debug.2024180720.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.568985815;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.516056858">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.329669447;fr.ac6.managedbuild.config.gnu.cross.exe.release.329669447.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.1815771573;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1884866554">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.2024180720;fr.ac6.managedbuild.config.gnu.cross.exe.debug.2024180720.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.2099761964;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1163041983">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.329669447;fr.ac6.managedbuild.config.gnu.cross.exe.release.329669447.;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.302685508;fr.ac6.managedbuild.tool.gnu.cross.c.compiler.input.c.888150061">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
 		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.debug.1000332105;fr.ac6.managedbuild.config.gnu.cross.exe.debug.1000332105.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.318870537;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1536178763">
-			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
-		</scannerConfigBuildInfo>
-		<scannerConfigBuildInfo instanceId="fr.ac6.managedbuild.config.gnu.cross.exe.release.12570053;fr.ac6.managedbuild.config.gnu.cross.exe.release.12570053.;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.318870537;fr.ac6.managedbuild.tool.gnu.cross.cpp.compiler.input.cpp.1536178763">
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
 	</storageModule>
